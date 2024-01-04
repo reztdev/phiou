@@ -1,3 +1,7 @@
+[![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://kitabisa.com/campaign/bantuanuntukgaza)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://x.com/turumandem)
+[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://kitabisa.com/campaign/bantuanuntukgaza)
+
 <div><h1 align="center">Phiou Obfuscate</h1></div>
 Obfuscator code is only for python language and support for bypassing protection by Antivirus. Custom encrypt your payload, hide the code you create so it doesn't get misused and much more. But, you need to know that this only applies to the Python language. In the future, I will add more features.
 
